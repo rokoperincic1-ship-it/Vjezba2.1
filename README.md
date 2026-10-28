@@ -22,6 +22,6 @@ README je namijenjen kolegama sa faksa za issues, te profesoru za ocjenivanje.
 
 ## Autor i korištenje AI-a
 
-Priručnik piše Luka Jurjevic u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
+Priručnik pise Roko Perincic u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
 
 U ovoj verziji nisam koristio AI.
